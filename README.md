@@ -28,18 +28,16 @@ kallisto-em-algorithm/
 ├── requirements.txt          # Python dependencies
 ├── kallisto_em.py           # Main implementation
 ├── example_notebook.ipynb   # Original Jupyter notebook
-├── tests/
-│   └── test_kallisto_em.py  # Unit tests
-└── docs/
-    └── algorithm_explanation.md  # Detailed algorithm explanation
+├── test_kallisto_em.ppy     # Unit tests
+└── algorithm_explanation.md  # Detailed algorithm explanation
 ```
 
 ## 🛠️ Installation
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/kallisto-em-algorithm.git
-   cd kallisto-em-algorithm
+   git clone https://github.com/devansh-shah56/kallisto-em
+   cd kallisto-em
    ```
 
 2. **Install dependencies**:
